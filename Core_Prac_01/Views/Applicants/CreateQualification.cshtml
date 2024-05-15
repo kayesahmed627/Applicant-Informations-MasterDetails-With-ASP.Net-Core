@@ -1,0 +1,70 @@
+﻿@model QualificationInputModel
+@{
+    ViewData["Title"] = "CreateQualification";
+}
+<div class="row">
+    <div class="col-12">
+
+        <form asp-action="CreateQualification" asp-controller="Applicants" method="post">
+            <h3>Add new qualication</h3>
+            <div class="form-group row mb-1">
+                <label asp-for="ApplicantId" class="col-form-label col-form-label-sm col-3 text-end"></label>
+                <div class="col-4">
+                    <select class="form-select form-select-sm " asp-for="ApplicantId" asp-items="@(new SelectList(ViewBag.Applicants, "ApplicantId", "ApplicantName", ViewBag.ApplicantId))">
+                    </select>
+                    <span asp-validation-for="ApplicantId" class="text-danger" style="font-size:small"></span>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <div class="form-group row mb-1">
+                    <label asp-for="Degree" class="col-form-label col-form-label-sm col-3 text-end"></label>
+                    <div class="col-4">
+                        <input asp-for="Degree" class="form-control form-control-sm" />
+                        <span asp-validation-for="Degree" class="text-danger" style="font-size:small"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <div class="form-group row mb-1">
+                    <label asp-for="Institute" class="col-form-label col-form-label-sm col-3 text-end"></label>
+                    <div class="col-4">
+                        <input asp-for="Institute" class="form-control form-control-sm" />
+                        <span asp-validation-for="Institute" class="text-danger" style="font-size:small"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <div class="form-group row mb-1">
+                    <label asp-for="PassingYear" class="col-form-label col-form-label-sm col-3 text-end"></label>
+                    <div class="col-4">
+                        <input asp-for="PassingYear" class="form-control form-control-sm" />
+                        <span asp-validation-for="PassingYear" class="text-danger" style="font-size:small"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <div class="form-group row mb-1">
+                    <label asp-for="Result" class="col-form-label col-form-label-sm col-3 text-end"></label>
+                    <div class="col-4">
+                        <input asp-for="Result" class="form-control form-control-sm" />
+                        <span asp-validation-for="Result" class="text-danger" style="font-size:small"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <div class="col-8">
+                    <div class="d-flex justify-content-end">
+                        <button type="submit" class="btn btn-primary">Save</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+@section scripts
+{
+    <script src="~/libs/jquery/jquery.js"></script>
+    <script src="~/libs/validate/jquery.validate.js"></script>
+    <script src="~/libs/unobtrusive/jquery.validate.unobtrusive.js"></script>
+}
+

@@ -1,0 +1,100 @@
+﻿@model Applicant
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>Are you sure to delete?</h3>
+        <div class="form-group row mb-1">
+            <label asp-for="ApplicantName" class="col-form-label col-form-label-sm col-2 text-end"></label>
+            <div class="col-6">
+                @Model.ApplicantName
+
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            <label asp-for="AppliedFor" class="col-form-label col-form-label-sm col-2 text-end"></label>
+            <div class="col-6">
+                @Model.AppliedFor
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            <label asp-for="BirthDate" class="col-form-label col-form-label-sm col-2 text-end"></label>
+            <div class="col-6">
+                @Model.BirthDate.ToString("yyyy-MM-dd")
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            <label asp-for="Gender" class="col-form-label col-form-label-sm col-2 text-end"></label>
+            <div class="col-6">
+                @Model.Gender
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            <label asp-for="Picture" class="col-form-label col-form-label-sm col-2 text-end"></label>
+            <div class="col-6">
+                @Model.Picture
+            </div>
+        </div>
+
+        <div class="form-group row mb-1">
+
+            <div class="col-6 offset-2">
+                <div class="form-check">
+                    <input type="checkbox" asp-for="IsReadyToWorkAnyWhere">
+                    <label class="form-check-label" for="flexCheckDefault">
+                        Ready to work anywhere in country
+                    </label>
+                </div>
+
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            <div class="col-8">
+                <h4>Qualifications</h4>
+
+                @foreach (var q in Model.Qualifications)
+                {
+                    <div class="form-group row mb-1">
+                        <label asp-for="@q.Degree" class="col-form-label col-form-label-sm col-2 text-end"></label>
+                        <div class="col-6">
+                            @q.Degree
+
+                        </div>
+                    </div>
+                    <div class="form-group row mb-1">
+                        <label asp-for="@q.Institute" class="col-form-label col-form-label-sm col-2 text-end"></label>
+                        <div class="col-6">
+                            @q.Institute
+
+                        </div>
+                    </div>
+                    <div class="form-group row mb-1">
+                        <label asp-for="@q.PassingYear" class="col-form-label col-form-label-sm col-2 text-end"></label>
+                        <div class="col-6">
+                            @q.PassingYear
+
+                        </div>
+                    </div>
+                    <div class="form-group row mb-1">
+                        <label asp-for="@q.Result" class="col-form-label col-form-label-sm col-2 text-end"></label>
+                        <div class="col-6">
+                            @q.Result
+
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+        <div class="form-group row mb-1">
+            <div class="col-8">
+                <form asp-action="Delete" asp-controller="applicants" asp-route-id="@Model.ApplicantId" method="post">
+                    <div class="d-flex justify-content-end">
+                        <button type="submit" class="btn btn-danger" name="act" value="insert">Confirm Delete</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

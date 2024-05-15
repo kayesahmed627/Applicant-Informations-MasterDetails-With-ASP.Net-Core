@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\controllers\\applicantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\controllers\\applicantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\views\\applicants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\views\\applicants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\views\\applicants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\views\\applicants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\views\\applicants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\views\\applicants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\views\\applicants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\views\\applicants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\views\\applicants\\createqualification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\views\\applicants\\createqualification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\views\\applicants\\deletequalification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\views\\applicants\\deletequalification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|d:\\module_08_api.net core\\core_prac_01\\core_prac_01\\views\\applicants\\editqualification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B05FE851-8A92-4BE6-B37F-45CE79F18386}|Core_Prac_01\\Core_Prac_01.csproj|solutionrelative:core_prac_01\\views\\applicants\\editqualification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\libman.json",
+              "RelativeDocumentMoniker": "Core_Prac_01\\libman.json",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\libman.json",
+              "RelativeToolTip": "Core_Prac_01\\libman.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T14:17:33.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\appsettings.json",
+              "RelativeDocumentMoniker": "Core_Prac_01\\appsettings.json",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\appsettings.json",
+              "RelativeToolTip": "Core_Prac_01\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T14:09:45.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Core_Prac_01\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Core_Prac_01\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T14:09:52.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Core_Prac_01\\Views\\Applicants\\Delete.cshtml",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\Delete.cshtml",
+              "RelativeToolTip": "Core_Prac_01\\Views\\Applicants\\Delete.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T16:35:27.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateQualification.cshtml",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\CreateQualification.cshtml",
+              "RelativeDocumentMoniker": "Core_Prac_01\\Views\\Applicants\\CreateQualification.cshtml",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\CreateQualification.cshtml",
+              "RelativeToolTip": "Core_Prac_01\\Views\\Applicants\\CreateQualification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T16:33:23.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Core_Prac_01\\Views\\Applicants\\Edit.cshtml",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\Edit.cshtml",
+              "RelativeToolTip": "Core_Prac_01\\Views\\Applicants\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T14:54:38.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\Create.cshtml",
+              "RelativeDocumentMoniker": "Core_Prac_01\\Views\\Applicants\\Create.cshtml",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\Create.cshtml",
+              "RelativeToolTip": "Core_Prac_01\\Views\\Applicants\\Create.cshtml",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAIMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T13:53:48.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\Index.cshtml",
+              "RelativeDocumentMoniker": "Core_Prac_01\\Views\\Applicants\\Index.cshtml",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\Index.cshtml",
+              "RelativeToolTip": "Core_Prac_01\\Views\\Applicants\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T13:52:49.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbModel.cs",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Models\\DbModel.cs",
+              "RelativeDocumentMoniker": "Core_Prac_01\\Models\\DbModel.cs",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Models\\DbModel.cs",
+              "RelativeToolTip": "Core_Prac_01\\Models\\DbModel.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T13:07:11.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicantsController.cs",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Controllers\\ApplicantsController.cs",
+              "RelativeDocumentMoniker": "Core_Prac_01\\Controllers\\ApplicantsController.cs",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Controllers\\ApplicantsController.cs",
+              "RelativeToolTip": "Core_Prac_01\\Controllers\\ApplicantsController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAwO0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T13:42:27.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteQualification.cshtml",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\DeleteQualification.cshtml",
+              "RelativeDocumentMoniker": "Core_Prac_01\\Views\\Applicants\\DeleteQualification.cshtml",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\DeleteQualification.cshtml",
+              "RelativeToolTip": "Core_Prac_01\\Views\\Applicants\\DeleteQualification.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T16:36:14.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditQualification.cshtml",
+              "DocumentMoniker": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\EditQualification.cshtml",
+              "RelativeDocumentMoniker": "Core_Prac_01\\Views\\Applicants\\EditQualification.cshtml",
+              "ToolTip": "D:\\MODULE_08_API.Net Core\\Core_Prac_01\\Core_Prac_01\\Views\\Applicants\\EditQualification.cshtml",
+              "RelativeToolTip": "Core_Prac_01\\Views\\Applicants\\EditQualification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T16:38:28.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

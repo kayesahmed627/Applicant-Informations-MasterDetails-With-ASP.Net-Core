@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+        <link href="~/libs/bootstrap/css/bootstrap.css" rel="stylesheet" />
+        <script src="~/libs/bootstrap/js/bootstrap.bundle.js"></script>
+    <style>
+        body {
+            padding-top: 70px;           
+        }
+    </style>
+    @await RenderSectionAsync("styles", false)
+</head>
+<body>
+    <navbar class="navbar navbar-dark bg-success navbar-expand-md fixed-top shadow-sm px-2">
+        <div class="container-fluid">
+            <span class="navbar-brand">Class 01 <sub>M8</sub> Continued</span>
+            <span class="navbar-text">MVC Core picture upload with preview</span>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nv" aria-controls="nv" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="navbar-collapse" id="nv">
+                <ul class="navbar-nav  ms-auto">
+                    <li class="nav-item">
+                        <a asp-action="Index" asp-controller="Home" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-action="Index" asp-controller="Applicants" class="nav-link">Applicants</a>                      
+                    </li>                 
+                </ul>
+            </div>
+        </div>
+    </navbar>
+    <main class="container-fluid main">
+        @RenderBody()
+    </main>
+    <footer class="container-fluid">
+        &copy; @DateTime.Today.Year
+    </footer>
+    @await RenderSectionAsync("scripts", false)
+</body>
+</html>
